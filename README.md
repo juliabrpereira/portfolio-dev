@@ -5,7 +5,7 @@
 - 🔭 Projeto de **página de cadastro** produzido nas linguagens HTML e CSS é uma interface simples que possibilita o usuário a cadastrar seu nome, email e senha. O projeto possui caracteristica unicamente estética, uma vez que não possue uma linguagem de programação que armazene os dados inseridos pelo usuário.
  
 
-- 🌱 Atualmente estou estudando **java e python**
+- 🌱 Atualmente estou estudando **Java e Python**
 
 - 👯 Espero colaborar na criação de um **aplicativo**
 
