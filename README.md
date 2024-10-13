@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá 👋, soua Júlia</h1>
+<h1 align="center">Olá 👋, sou a Júlia</h1>
 <h3 align="center">Uma estudante de TI apaixonada por programação</h3>
 
 - 🔭 Atualmente estou trabalhando em uma **página de cadastro** em html e css
