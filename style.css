@@ -22,6 +22,7 @@ label {
     margin: 10px;
     display: flex;
     justify-content: start;
+    align-items: center;
 }
 
 input {
