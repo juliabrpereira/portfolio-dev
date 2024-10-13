@@ -30,6 +30,9 @@ input {
     width: 200px;
     border-radius: 10px;
     color: rgb(236, 237, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
