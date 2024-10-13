@@ -4,8 +4,9 @@
 
 - 🔭 Projeto de **página de cadastro** produzido nas linguagens HTML e CSS é uma interface simples que possibilita o usuário a cadastrar seu nome, email e senha. O projeto possui caracteristica unicamente estética, uma vez que não possue uma linguagem de programação que armazene os dados inseridos pelo usuário.
  
-
-- 🌱 Atualmente estou estudando **Java e Python**
+- 🔭 Projeto de **verificador de emails** produzido na linguagem de programação Python, que pergunta ao usuário a quantidade de emails a serem verificados e verifica se há o símbolo "@" nos emails. Em seguida ele imprime a quantidade de emails que não estão sobre o padrão especulado.
+  
+- 🌱 Olá, sou a Júlia! Atualmente estou estudando Análise e desenvolvimento de sistemas. Estudo as linguagens de programação **Java e Python**.
 
 - 👯 Espero colaborar na criação de um **aplicativo**
 
