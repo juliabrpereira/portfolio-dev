@@ -2,16 +2,15 @@
 <h1 align="center">Projeto de portfólio</h1>
 <h3 align="center">Esse portfólio é um repositório que armazena alguns dos meus projetos pessoais e acadêmicos.</h3>
 
-- 🔭 Projeto de **página de cadastro** produzido nas linguagens HTML e CSS é uma interface simples que possibilita o usuário a cadastrar seu nome, email e senha. O projeto possui caracteristica unicamente estética, uma vez que não possue uma linguagem de programação que armazene os dados inseridos pelo usuário.
+> 🔭 Projeto de **página de cadastro** produzido nas linguagens HTML e CSS é uma interface simples que possibilita o usuário a cadastrar seu nome, email e senha. O projeto possui caracteristica unicamente estética, uma vez que não possue uma linguagem de programação que armazene os dados inseridos pelo usuário.
  
+> 🌱 Atualmente estou estudando **Java e Python**
 
-- 🌱 Atualmente estou estudando **Java e Python**
+> 🐞 Espero colaborar na criação de um **aplicativo**
 
-- 👯 Espero colaborar na criação de um **aplicativo**
+> 🤝 Procuro ajuda em aprender **orientação a objetos em Javascript e frameworks**
 
-- 🤝 Procuro ajuda em aprender **orientação a objetos em Javascript e frameworks**
-
-- 📫 Entre em contato comigo por **juliabarrozorp@gmail.com**
+> 📫 Entre em contato comigo por **juliabarrozorp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
