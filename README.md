@@ -1,14 +1,15 @@
 
-<h1 align="center">Olá 👋, sou a Júlia</h1>
-<h3 align="center">Uma estudante de TI apaixonada por programação</h3>
+<h1 align="center">Projeto de portfólio</h1>
+<h3 align="center">Esse portfólio é um repositório que armazena alguns dos meus projetos pessoais e acadêmicos.</h3>
 
-- 🔭 Atualmente estou trabalhando em uma **página de cadastro** em html e css
+- 🔭 Projeto de **página de cadastro** produzido nas linguagens HTML e CSS é uma interface simples que possibilita o usuário a cadastrar seu nome, email e senha. O projeto possui caracteristica unicamente estética, uma vez que não possue uma linguagem de programação que armazene os dados inseridos pelo usuário.
+ 
 
 - 🌱 Atualmente estou estudando **java e python**
 
 - 👯 Espero colaborar na criação de um **aplicativo**
 
-- 🤝 Procuro ajuda em aprender **orientação a objetos e frameworks**
+- 🤝 Procuro ajuda em aprender **orientação a objetos em Javascript e frameworks**
 
 - 📫 Entre em contato comigo por **juliabarrozorp@gmail.com**
 
