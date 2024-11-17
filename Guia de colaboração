@@ -15,3 +15,9 @@
 ### Mesclando o código
 * Após a aprovação da revisão, o autor do pull request pode mesclar o código na branch principal.
 * Utilize o merge strategy adequado (merge, rebase) dependendo da situação.
+
+### Configurações de compartilhamento de código
+* Manage Acess: juliabarrozo - Colaboradora
+* Limites de interações: Usuários que não são colaboradores não serão aptos a interagir com o código.
+* Limites de review de código: Apenas usuários com permissão concedida podem submeter pull request reviews que aprovam ou desaprovam mudanças.
+* A Webhook notifica alterações em pull requests, pushes e issues.
