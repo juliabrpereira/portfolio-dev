@@ -1,0 +1,17 @@
+## Guia de Colaboração
+
+### Criando um novo branch
+* Crie um novo branch a partir da branch principal para cada nova funcionalidade: `git checkout -b nova-funcionalidade`
+* Faça as suas alterações e commit regularmente com mensagens claras e concisas.
+
+### Criando um pull request
+* Ao finalizar uma funcionalidade, crie um pull request para mesclar o seu branch na branch principal.
+* Descreva claramente as alterações realizadas e as razões para a mudança.
+
+### Revisando o código
+* Todos os pull requests devem ser revisados por pelo menos um outro desenvolvedor antes de serem mesclados.
+* A revisão deve focar na qualidade do código, na legibilidade e na conformidade com as diretrizes do projeto.
+
+### Mesclando o código
+* Após a aprovação da revisão, o autor do pull request pode mesclar o código na branch principal.
+* Utilize o merge strategy adequado (merge, rebase) dependendo da situação.
